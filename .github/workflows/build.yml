@@ -19,7 +19,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: debian-latest
+    runs-on: macOS-latest
 
     steps:
     - uses: actions/checkout@v3
